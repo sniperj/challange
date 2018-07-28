@@ -1,6 +1,6 @@
 # Prime Numbers
 
-This application accpets Composit Numbers and returns only the Prime Factors that are Prime Numbers. 
+This application accepts Composit Numbers and returns only the Prime Factors that are Prime Numbers. 
 
 ## Getting Started
 
